@@ -1,1 +1,1 @@
-# x1-validator
+# validator node logo
